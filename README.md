@@ -52,6 +52,23 @@ Practice:
 
 ---
 
+### Day 4
+Topics:
+- Constructor Overloading
+- Multiple constructors
+- Object initialization
+- Default values
+- Object creation scenarios
+
+Practice:
+- Created Book class
+- Added multiple constructors
+- Implemented constructor overload
+- Created objects with different parameter sets
+- Practiced object modeling
+
+---
+
 ## Learning Notes
 
 I track:
