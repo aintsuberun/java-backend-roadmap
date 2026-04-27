@@ -69,6 +69,24 @@ Practice:
 
 ---
 
+### Day 5
+Topics:
+- Static fields and methods
+- Shared class state
+- Constructor chaining
+- Automatic ID generation
+- Object identity
+
+Practice:
+- Created Book system
+- Implemented totalBooks counter
+- Built automatic ID assignment
+- Used constructor delegation
+- Added discount validation
+- Improved object architecture
+
+---
+
 ## Learning Notes
 
 I track:
