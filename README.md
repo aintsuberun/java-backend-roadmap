@@ -87,6 +87,39 @@ Practice:
 
 ---
 
+Day 6 — Collections & Library System
+
+Topics covered:
+- ArrayList (Java Collections Framework)
+- Object storage in collections
+- Iterating over objects
+- Searching elements in a list
+- Removing elements by ID
+- Filtering data in collections
+
+What I built:
+- Library system with Book objects
+- Added books dynamically using ArrayList
+- Implemented:
+    - addBook()
+    - showAllBooks()
+    - countBooks()
+    - findBookByTitle()
+    - removeBookById()
+    - showExpensiveBooks()
+
+Key concepts learned:
+- Difference between arrays and ArrayList
+- Object management inside collections
+- Using equals() for string comparison
+- Working with object references in lists
+
+Next step:
+- User input with Scanner
+- Console-based interactive application
+
+---
+
 ## Learning Notes
 
 I track:
