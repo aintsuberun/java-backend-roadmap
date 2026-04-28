@@ -120,6 +120,44 @@ Next step:
 
 ---
 
+# Day 7 — Console Application Architecture
+
+Topics Covered
+- Scanner input
+- Console menu system
+- While loop
+- Application flow
+- Separation of concerns
+- OOP architecture
+
+Features Implemented
+- Menu class for user interaction
+- Library system improvements
+- Empty library validation
+- Search by title
+- Remove by ID
+- Expensive books filter
+
+Key Concepts Learned
+- Main/Menu controls application flow
+- Library manages objects
+- Book stores data
+- Collections store object references
+- While loop keeps app running
+- Scanner should exist once
+
+Important Architecture
+Book → stores data  
+Library → manages books  
+Menu/Main → handles user interaction
+
+ Progress
+- Better understanding of object interaction
+- Stronger OOP structure
+- Transition from exercises to application building
+
+---
+
 ## Learning Notes
 
 I track:
